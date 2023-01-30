@@ -1,0 +1,153 @@
+/* #bg {
+    background-image: url('./images//logo.jpeg');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rosybrown;
+    background-position: center center;
+    background-position: 50% 200px;
+    background-size: 500px 10px;
+    background-position: 150px 113px;
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+    background: cyan url('./images//eyes1.jpg') no-repeat fixed 5% 10%;
+    background-size: cover;
+    background-color: yellowgreen;
+    background-image: url('./images//eye.webp'), url('./images//istockphoto-1333772639-1024x1024.jpg');
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-position: left top, right bottom;
+} */
+/* border start */
+/* 
+#border {
+    border: 4px solid red;
+    border-width: 3px 5px 7px 10px;
+    border-top-style: dashed;
+    border-style: dashed dotted solid double;
+    border-radius: 10px 20px 30px 50px;
+} */
+/* <!-- 9 Height & width --> */
+/* body {
+    border: 1px solid red;
+    height: 1000px;
+}
+#div1 { */
+    /* background-color: cornflowerblue;
+    height: 50%;
+    width: 50%;
+    max-width: 40%;
+    ise zada nahi max-height: 40%;
+    min-width: 30%;
+    min-height: 30%;
+    ise kan nahi
+    /* } */
+    /* padding start 
+    #padd { */ */
+
+        /* border: 1px solid red;
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-right: 40px;
+        padding-bottom: 50px;
+        padding: 30px 60px 50px 60px;
+    } */
+    /* MARGIN START */
+    /* .margin {
+        border: 2px solid red;
+        margin: 10px 20px 30px 40px;
+    } */
+
+    /* #m1 {
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+        margin: 20px 20px 30px 30px;
+    } */
+
+    /* #m1 {
+        border: 1px solid red;
+        margin: auto;
+        padding: 20px;
+    } */
+    /* #m1 {
+        border: 1px solid red;
+        width: 200px;
+        margin: auto;
+    } */
+    /* ________text */
+    /* p {
+        width: 500px;
+        border: 1px solid red;
+        color: blue;
+        text-align: justify;
+    } */
+
+    /* img {
+        width: 200px;
+        vertical-align: middle;
+    } */
+
+    /* p {
+        border: 1px solid red;
+        width: 500px;
+        height: 300px;
+    } */
+   /* p { 
+        text-decoration: line-through;
+    } */
+
+    /* p {
+        width: 500px;
+        height: 300px;
+        border: 1px solid red;
+        text-transform: capitalize;
+        line-height: 30px;
+        overflow: scroll;
+        text-indent: 200px;
+        letter-spacing: 20px;
+        word-spacing: 10px;
+        white-space: pre;
+        word-wrap: break-word;
+    } */
+
+    /* TEXT SHADOW */
+    /* #shadow {
+        font-size: 50px;
+        text-shadow: 1px 1px 15px rebeccapurple;
+    } */
+    /* #shadow {
+        width: 500px;
+        border: 1px solid red;
+        writing-mode: vertical-rl;
+    } */
+    /* _______________LINKS___________________ */
+    /* a {
+        text-decoration: none;
+    }
+
+    a:link {
+        color: yellowgreen;
+    }
+
+    a:visited {
+        color: black;
+    }
+
+    a:hover {
+        color: orange;
+    }
+
+    a:active {
+        color: red;
+    } */
+    
+
+
+    /* <!-- 15 fonts --> */

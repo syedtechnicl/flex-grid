@@ -1,0 +1,137 @@
+/* .grid-container{
+   background-color:indianred;
+   padding:20px;
+   display:grid;
+   display:inline-grid;
+   display:grid; */
+   /* grid-template-columns:200px 40% auto ;
+   grid-template-columns:auto 50% auto 50px;
+   grid-template-columns:auto 50% auto;
+   grid-template-rows:100px 200px auto;
+   grid-column-gap:10px;
+   grid-row-gap:10px;
+   justify-content:end;
+   justify-content:start;
+   justify-content:center;
+   justify-content:space-around;
+   justify-content: space-between;
+   justify-content: space-evenly;
+   align-items:center;
+   height:500px; */
+   /* grid-template-columns:200px 300px 200px;
+   grid-column-gap:10px;
+   grid-row-gap:10px;
+   justify-content:space-evenly;
+   height:400px;
+   align-content:center;
+}
+ */
+
+/* .grid-item{
+   background-color:wheat;
+   border:1px solid black;
+   padding:20px;
+   font-size:40px;
+   text-align:center;
+    
+} */
+
+/* #grid-5{ */
+    /* grid-column-start:1;
+    grid-column-start: 1; */
+    /* grid-column:1/3;
+    grid-column:1/span 3; */
+    /* grid-row:1/4; */
+    /* grid-area:1/2/4/5; */
+    /* grid-area:1/2/3; */
+    /* grid-area:1/2/span 2/span 3; */
+/* } */
+
+
+/* .grid-container{
+background-color: indianred;
+padding:20px;
+display:grid;
+grid-template-areas:
+'header header header header header header'
+'menu main main main right right' 
+'menu footer footer footer footer' ;
+grid-gap:10px;
+
+}
+
+.grid-item{
+   background-color: wheat;
+   border:1px solid rebeccapurple;
+   padding:20px;
+   font-size :40px; 
+   text-align:center;
+   grid-gap:10px;
+}
+
+#grid-1{
+grid-area:header;
+}
+
+#grid-2{
+    
+    grid-area:menu;
+}
+#grid-3{
+    grid-area:main;
+}
+#grid-4{
+    grid-area:right;
+}
+#grid-5{
+    grid-area:footer;
+}
+ */
+
+
+
+
+/* mentorcss start */
+.d-container{
+    background-color:indianred;
+    padding:10px;
+    display:grid;
+    grid-template-areas:
+    'small1 small1 small2 small2 lam1 lam2'
+    ''
+    ''
+
+}
+
+.items{
+    background-color: antiquewhite;
+    margin:10px;
+    padding:30px;
+    width:60px;
+    border-radius:10px;   
+}
+
+#small1{
+grid-area:small1;
+}
+
+#small2{
+grid-area:small2;
+}
+
+#small3l1{
+    grid-area:lam1;
+}
+
+#small14{
+grid-area: lam2;
+}
+
+/* mentorcss end */
+
+
+
+
+
+
+
